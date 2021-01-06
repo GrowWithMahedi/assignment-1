@@ -11,7 +11,7 @@ h2{
     font-family: 'Roboto', sans-serif;
 }
 h3{
-    font: size 40px;
+    font-size: 40px;
     text-align: left;
 }
 p{
@@ -46,31 +46,17 @@ section{
 }
 .Working-project{
     text-align: center;
-    background-color: #efefef;
+
 }
 .user-working{
     color:#FF8367;
     font-family: 'Roboto', sans-serif;
 }
-.half-width-example{
-    width: 30%;
-    float: left;
-    margin-left: 5%;
-    padding-left: 2%;
+.latest-working{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 1px;
+
 }
-.half-width-example img{
-    width:100%;
-}
-.half-width-example p{
-    color: dimgrey;
-    font-size:16px;
-    font-family: 'Gafata', sans-serif;
-    text-align: left;
-}
-.half-width-third{
-    width: 35%;
-    float: left;
-}
-.half-width-third img{
-    width: 100%;
+.latest-working img{
+    width:80%;
 }
