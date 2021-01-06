@@ -1,4 +1,76 @@
 body{
     margin: 0px;
+    padding: 0px;
+    font-family: 'Roboto', sans-serif;
 }
-    
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size:40px;
+    font-family: 'Roboto', sans-serif;
+}
+h3{
+    font: size 40px;
+    text-align: left;
+}
+p{
+color: dimgrey;
+font-size:16px;
+font-family: 'Gafata', sans-serif;
+}
+.user-highlight{
+    color:#FF8367;
+    font-family: 'Gafata', sans-serif;
+}
+.half-width{
+    width: 35%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width:80%;
+}
+.button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, lightSalmon, tomato);
+    padding:10px 20px;
+    border: radius 10px;
+    color: white;
+    font-weight: 500;
+}
+section{
+    height: 500px;
+    padding-bottom: 150px;
+}
+.Working-project{
+    text-align: center;
+    background-color: #efefef;
+}
+.user-working{
+    color:#FF8367;
+    font-family: 'Roboto', sans-serif;
+}
+.half-width-example{
+    width: 30%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width-example img{
+    width:100%;
+}
+.half-width-example p{
+    color: dimgrey;
+    font-size:16px;
+    font-family: 'Gafata', sans-serif;
+    text-align: left;
+}
+.half-width-third{
+    width: 35%;
+    float: left;
+}
+.half-width-third img{
+    width: 100%;
+}
